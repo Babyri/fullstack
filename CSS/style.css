@@ -1,3 +1,19 @@
-.titulo{
-    background-color: aqua;
+h1{
+    color: rgba(19, 165, 165, 0.26); text-shadow: 2px 2px 1px blueviolet;
+}
+p{
+    color: rgba(23, 140, 32, 0.441);
+}
+<style>
+#green-and-bold {
+font-weight: bold;  
+color: green;  
+}
+<div id="green-and-bold"
+
+<div>hola<\div>
+<\div>
+<style>
+h2+p{
+    color: green;
 }
