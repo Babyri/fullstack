@@ -1,6 +1,11 @@
-const saludos = (persona: string) => {
-    return "Hola, " + persona;
-}
-const usuario: string = "Marcos";
-console.log(usuario);
-document.body.innerHTML = saludos(usuario);
+// type persona = { nombre:string, dinero:number, cuenta:string | number}
+
+// let gestor: persona;
+// nombre:"elvergalarga"
+// dinero:2000
+// cuenta:es908653947583
+
+// let cliente: persona;
+// nombre:"mariaunpajote"
+// dinero:500
+// cuenta:es908465757433
